@@ -1,4 +1,4 @@
-# AI Fractional CFO
+# Clarity-AI
 
 ## Vision
 Help small businesses understand their finances using AI.
@@ -10,4 +10,4 @@ Help small businesses understand their finances using AI.
 - AI recommendations
 
 ## Founder
-Edgar V. Latacunga A.# AI-Fractional-CFO
+Edgar V. Latacunga A.
